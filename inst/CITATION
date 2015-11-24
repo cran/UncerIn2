@@ -1,0 +1,10 @@
+citHeader("To cite package uncertaintyInterpolation2 in publications please use:")
+
+citEntry(entry="Manual",
+   title = "UncerIn2 Package: Implements models of uncertainty into the interpolation      functions",
+   author = "Tomas Burian",
+   year = 2015,
+   url = "http://www.geoinformatics.upol.cz/dprace/magisterske/burian15//",
+   textVersion = paste("T. Burian, 'UncerIn2 Package: Implements models of uncertainty into the interpolation functions', Geoinformatics.upol.cz, 2015. [Online]. Available: http://www.geoinformatics.upol.cz/dprace/magisterske/burian15//. [Accessed: 11- Nov- 2015].")
+)
+
